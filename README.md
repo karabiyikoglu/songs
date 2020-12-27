@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Installing React-Redux and Redux, in the project directory
+
+### `npm install --save redux react-redux`
+
 In the project directory, you can run:
 
 ### `npm start`
